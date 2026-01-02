@@ -1,2 +1,7 @@
-# first-repository
-add new contents
+# 나의 첫 깃허브 프로젝트
+
+## 학습 목표
+- Git 명령어 익히기
+- 마크다운 작성하기
+
+> 드디어 성공했습니다! 🎉
